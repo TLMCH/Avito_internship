@@ -1,0 +1,10 @@
+numpy==2.0.2
+pandas==2.3.0
+scikit-learn==1.7.0
+catboost==1.2.8
+joblib==1.5.1
+sentence-transformers==5.1.1
+transformers==4.53.0
+tokenizers==0.21.2
+torch==2.6.0
+scipy==1.15.3
